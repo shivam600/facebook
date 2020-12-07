@@ -1,0 +1,29 @@
+Watching for file changes with StatReloader
+[10/Nov/2020 12:07:48] "GET / HTTP/1.1" 200 16351
+[10/Nov/2020 12:07:48] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 12:07:49] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:07:49] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:07:49] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:07:55] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03yRm\x96íÈ\x1fTY#\x9ax\x1fÔ´ÔÜïÒ\x89Ð7mcP§bä\x9ek3¯ oZ×4\x18\x194×z\x91W¢à\x13\x97\x19ÕT¶é¸ÀU\x14úZ_7Ñ¸ \x85\x00 ZZ\x13\x03\x13\x01\x13\x02Ì©Ì¨À+À/À,À0À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x00\x0bdigimonk.co\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[10/Nov/2020 12:07:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/Nov/2020 12:07:55] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ûu\x9dÉô<£½ÅÌ¶\x996Øñ\x9abq;')
+[10/Nov/2020 12:07:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[10/Nov/2020 12:24:08] "GET / HTTP/1.1" 200 16351
+[10/Nov/2020 12:24:08] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 12:24:08] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:24:08] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:24:08] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:47:47] "GET / HTTP/1.1" 200 16351
+[10/Nov/2020 12:47:47] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 12:47:47] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:47:47] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 12:47:47] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 14:26:02] "GET / HTTP/1.1" 200 16351
+[10/Nov/2020 14:26:02] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Nov/2020 14:26:02] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 14:26:02] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Nov/2020 14:26:02] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[10/Nov/2020 14:26:02] "GET /favicon.ico HTTP/1.1" 404 1976
