@@ -9,6 +9,13 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
+
+from decouple import config
+
+FACEBOOK_ACCESS_TOKEN = config('FACEBOOK_ACCESS_TOKEN')
+DEBUG = config('DEBUG', default=False, cast=bool)
+SECRET_KEY = config('SECRET_KEY')
+
 import os
 from pathlib import Path
 
